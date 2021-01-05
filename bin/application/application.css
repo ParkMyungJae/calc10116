@@ -1,0 +1,11 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+.btnBorder {
+	-fx-border-color: #8e8e8e;
+	-fx-cursor: hand;
+}
+
+.textarea {
+	-fx-font-size: 50px;
+	-fx-text-fill: #fff;
+}
